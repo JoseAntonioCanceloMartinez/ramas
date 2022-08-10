@@ -1,1 +1,2 @@
 En la carpeta comun-arreglos hemos dejado la solucion
+En la rama arreglos añadimos una linea tambien al fichero parche.txt
